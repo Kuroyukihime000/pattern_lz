@@ -1,4 +1,4 @@
-from pattern import BuildMashin, Mashin
+from pattern import BuildMashin
 
 def main():
     building = BuildMashin()
